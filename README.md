@@ -1,4 +1,4 @@
-# Store-values-to-the-Database
+# Store values to the Database
 ## Getting the value from html page and store it in database
 
 ### step 1
