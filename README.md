@@ -3,7 +3,7 @@
 
 ### step 1
 we create html page and can we insert the values from it
-*example for html page 
+- example for html page 
 
 
 ### step 2
